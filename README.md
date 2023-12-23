@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 <img src="https://myreadme.vercel.app/api/embed/JustinhSE?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=49g1pe18e5cf7t6f7cj1vbjtp&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://open.spotify.com/user/49g1pe18e5cf7t6f7cj1vbjtp?si=66f1b672ff254432)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JustinhSE&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />

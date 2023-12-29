@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Open-Source Projects 
 - 🌱 I’m just finished learning Data Structures
-- 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about Cooking, LEGOS, ColorStack, Java
 - 📫 How to reach me: https://www.linkedin.com/in/justinhtech/ 
 - ⚡ Fun fact: 4th Generation Missionary in Haiti

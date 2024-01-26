@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Open-Source Projects
+- 🔭 I’m currently working on Open-Source Projects & Research using Machine Learning with my professor
 - 🌱 I recently finished learning about Data Structures and Algorithms
 - 💬 Ask me about Cooking, LEGOS, ColorStack, Java
 - ⚡ Fun fact: 4th Generation Missionary in Haiti

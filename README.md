@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💼 Top Programming Voice on Linkedin
+- 💼 3x Linkedin Top Voice (Programming, Computer Science, & Machine Learning)
 - 🔭 I’m currently working on Open-Source Projects & Research using Machine Learning 
 - 💬 Ask me about Cooking, LEGOS, ColorStack, Java
 - ⚡ Fun fact: 4th Generation Missionary in Haiti

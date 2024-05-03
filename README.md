@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💼 4x LinkedIn Top Voice (Computer Science, Programming, Machine Learning & Volunteering)
-- 🔭 I’m currently working on Open-Source Projects & Research using Machine Learning 
+- 🔭 Finishing Finals Studying😓
 - 💬 Ask me about Cooking, LEGOS, ColorStack, Java
 - ⚡ Fun fact: 4th Generation Missionary in Haiti
 

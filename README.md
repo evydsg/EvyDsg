@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💼 4x LinkedIn Top Voice (Computer Science, Programming, Machine Learning & Volunteering)
+- 💼 5x LinkedIn Top Voice (Computer Science, Programming, Machine Learning, Robotics & Volunteering)
 - 🔭 Finishing Finals Studying😓
 - 💬 Ask me about Cooking, LEGOS, ColorStack, Java
 - ⚡ Fun fact: 4th Generation Missionary in Haiti

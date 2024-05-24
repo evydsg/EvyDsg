@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💼 5x LinkedIn Top Voice (Computer Science, Programming, Machine Learning, Robotics & Volunteering)
-- 🔭 Finishing Finals Studying😓
+- 🔭 Machine Learning Research @ Stony Brook University
 - 💬 Ask me about Cooking, LEGOS, ColorStack, Java
 - ⚡ Fun fact: 4th Generation Missionary in Haiti
 

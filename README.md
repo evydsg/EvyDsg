@@ -53,8 +53,6 @@
 
 <div style="display: flex;" >
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JustinhSE&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> 
-
-  
 </div>
 
 

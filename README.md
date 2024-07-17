@@ -3,7 +3,7 @@
 - 💼 7x LinkedIn Top Voice (Computer Science, Programming, Data Science, Machine Learning, Software Development, Robotics & Volunteering)
 - 🔭 Machine Learning Research @ Stony Brook University & SWE Bootcamp Intern @ GoDaddy
 - ⚡ Fun fact: 4th Generation Missionary in Haiti & Founder @ Debugging Disciples
-
+ 
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:justinh.tech1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/justinhtech/)

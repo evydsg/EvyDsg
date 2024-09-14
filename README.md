@@ -39,12 +39,10 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ## GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=justinhSE&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=justinhSE&theme=ambient_gradient&hide_border=false)
 
 
-<div style="display: flex;" >
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JustinhSE&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> 
-</div>
 
 
 ## 🎧 What I am listening to 🎧

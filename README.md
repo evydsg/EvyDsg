@@ -1,7 +1,7 @@
 ### Hey there 👋
 
 - 💼 7x LinkedIn Top Voice (Computer Science, Programming, Data Science, Machine Learning, Software Development, Robotics & Volunteering)
-- 🔭 Machine Learning Research @ Stony Brook University
+- 🔭 Machine Learning Research & CS @ Stony Brook University
 - ⚡ Fun fact: 4th Generation Missionary in Haiti & Founder @ Debugging Disciples
  
 

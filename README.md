@@ -1,4 +1,4 @@
-[![About me](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=25&pause=1000&color=F4B968&width=435&height=80&lines=Founder+%7C+Speaker+%7C+Developer;First+Generation+Student)](https://git.io/typing-svg)
+[![About me](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=25&pause=1000&color=F4B968&width=435&height=40&lines=Founder+%7C+Speaker+%7C+Developer;First+Generation+Student)](https://git.io/typing-svg)
 
 
 ### Hey there 👋

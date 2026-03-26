@@ -1,10 +1,25 @@
-### Hey there 👋
-- 📱 Founder of **Stay Positive** — Android app built with Kotlin & Firebase
-- 🔭 SWE @ **Tesla** — Python automation & real-time inventory tracking
-- 🤖 Former SWE Fellow @ **Headstarter AI** — AI/RAG systems & OpenAI integrations
-- 🏦 **Bloomberg Tech Lab Fellow** — portfolio management system with Bloomberg API integration
-- 🎓 B.S. Computer Science @ **University of Houston – Downtown**
-- ⚡ Fun fact: I have a parrot
+# 👋 Hi, I'm Evelise (Eve)
+
+💡 Software Engineer | Founder | Builder of real-world systems
+
+---
+
+## 🚀 About Me
+- 📱 Founder of **Stay Positive** — mental wellness app (Kotlin, Firebase)
+- 🔧 SWE @ **Tesla** — built automation systems saving **$200K+/week** :contentReference[oaicite:0]{index=0}  
+- 🤖 AI Engineer @ **Headstarter AI** — RAG systems with OpenAI + Pinecone  
+- 🏦 **Bloomberg Tech Fellow** — portfolio system with real-time APIs  
+- 🎓 B.S. Computer Science (GPA 3.9)  
+
+⚡ I turn **real-world problems into automated systems**.
+
+---
+
+## 🧠 What I Do Best
+- Backend systems & automation (Python + REST APIs)
+- Mobile development (Android / Kotlin)
+- AI systems (RAG, OpenAI integrations)
+- Full-stack apps (React, Next.js, Firebase)
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:evelisekguenda@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/evelisekguenda/)

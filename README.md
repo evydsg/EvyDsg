@@ -1,7 +1,7 @@
 <!-- 🔥 HERO BANNER -->
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%" />
+  <img src="https://raw.githubusercontent.com/evydsg/EvyDsg/main/ChatGPT%20Image%20Mar%2026%2C%202026%2C%2007_32_17%20AM.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Evelise (Eve)</h1>
@@ -17,10 +17,6 @@
 ---
 
 ## 🎯 Signature Identity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/evydsg/EvyDsg/main/ChatGPT%20Image%20Mar%2026%2C%202026%2C%2007_32_17%20AM.png" width="100%" />
-</p>
 
 <p align="center">
   📚 Study Mode → 👩‍💻 Engineer Mode  
